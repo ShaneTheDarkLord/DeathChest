@@ -1,0 +1,24 @@
+chestable_blocks:
+  - 'WATER'                 # Water
+  - 'LAVA'                  # Lava
+  - 'WHEAT'                 # Wheat Crops
+  - 'POTATOES'              # Potato Crops
+  - 'CARROTS'               # Carrot Crops
+  - 'BEETROOTS'             # Beetroot Crops
+  - 'PUMPKIN_STEM'          # Pumpkin stem w/o pumpkin
+  - 'ATTACHED_PUMPKIN_STEM' # Pumpkin stem w/ pumpkin
+  - 'MELON_STEM'            # Melon stem w/o melon
+  - 'ATTACHED_MELON_STEM'   # Melon stem w/ melon
+  - 'SUGAR_CANE'            # Sugar cane plants
+  - 'NETHER_WART'           # Netherwart
+  - 'KELP_PLANT'            # "Stem" of Kelp plants
+  - 'KELP'                  # Top of kelp plants
+  - 'SEAGRASS'              # 1-Block Sea Grass
+  - 'TALL_SEAGRASS'         # 2-Block Sea Grass
+  - 'GRASS'                 # 1-Block Grass (on land)
+  - 'TALL_GRASS'            # 2-Block Grass (on land)
+  - 'FERN'                  # 1-Block Ferns
+  - 'LARGE_FERN'            # 2-Block Ferns
+
+delay: 5                  # Number of ticks before spawning chests
+location_message: true    # Tell players where they died.

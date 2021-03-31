@@ -1,0 +1,3 @@
+name: DeathChest
+version: ${project.version}
+main: me.shane.main.deathchest.DeathChest
